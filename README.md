@@ -2,6 +2,8 @@ Universal Now Playing
 =====================
 
 Shows current song playing in iTunes or Spotify in Adium.
+* Defaults to Spotify.
+* Pause/Stop clears the status.
 
 ## Installation
 
