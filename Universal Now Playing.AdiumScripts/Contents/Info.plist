@@ -18,23 +18,13 @@
 	<array>
 		<dict>
 			<key>File</key>
-			<string>song_chat</string>
+			<string>song</string>
 			<key>Keyword</key>
 			<string>%song</string>
 			<key>PrefixOnly</key>
 			<false/>
 			<key>Title</key>
-			<string>I am listening to...</string>
-		</dict>
-		<dict>
-			<key>File</key>
-			<string>song_status</string>
-			<key>Keyword</key>
-			<string>%song_status</string>
-			<key>PrefixOnly</key>
-			<true/>
-			<key>Title</key>
-			<string>$title – $artist</string>
+			<string>Universal Now Playing</string>
 		</dict>
 	</array>
 	<key>Set</key>
