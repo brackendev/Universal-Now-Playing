@@ -6,7 +6,7 @@ This repository is not actively maintained.
 Universal Now Playing
 =====================
 
-Shows current song playing in iTunes or Spotify in Adium.
+Shows currently playing iTunes or Spotify song in Adium.
 * Favors Spotify (will show Spotify song before iTunes song if both are running).
 * Works in a chat session and as a status message.
 
