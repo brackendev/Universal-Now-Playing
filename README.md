@@ -17,3 +17,13 @@ Output: ♬ The Velvet Underground - Sister Ray (White Light / White Heat)
 ````
 
 You can also add a custom status with the same command.
+
+## Author
+
+### **ʙʀᴀᴄᴋᴇɴ sᴘᴇɴᴄᴇʀ**<br />
+[![](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_square_black-48.png)](http://github.com/brackendev/)
+&nbsp;[![](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_square_black-48.png)](https://www.linkedin.com/in/brackenspencer/)
+
+## License
+
+Universal-Now-Playing is released under the MIT license. See the LICENSE file for more info.
