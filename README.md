@@ -1,5 +1,7 @@
 Universal Now Playing
 =====================
+[![](https://img.shields.io/badge/platform-macOS-lightgrey.svg)](http://www.apple.com/macos/)
+[![](https://img.shields.io/badge/Maintained-No-red.svg)]()
 
 Shows currently playing iTunes or Spotify song in Adium.
 * Favors Spotify (will show Spotify song before iTunes song if both are running).
