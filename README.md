@@ -3,7 +3,8 @@ Universal Now Playing
 [![](https://img.shields.io/badge/platform-macOS-lightgrey.svg)](http://www.apple.com/macos/)
 [![](https://img.shields.io/badge/Maintained-No-red.svg)]()
 
-Shows currently playing iTunes or Spotify song in Adium.
+**Shows currently playing iTunes or Spotify song in Adium.**
+
 * Favors Spotify (will show Spotify song before iTunes song if both are running).
 * Works in a chat session and as a status message.
 
@@ -13,12 +14,9 @@ Shows currently playing iTunes or Spotify song in Adium.
 
 ## Usage
 
-````
-Command: %song
-Output: ♬ The Velvet Underground - Sister Ray (White Light / White Heat)
-````
+Using `%song` will output, for example, "♬ The Jesus & Mary Chain - Between Planets".
 
-You can also add a custom status with the same command.
+You can also add a custom status using `%song`.
 
 ## Author
 
