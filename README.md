@@ -10,7 +10,7 @@ Universal Now Playing
 
 ## Installation
 
-* Put in ~/Library/Application Support/Adium 2.0/Scripts
+* Download and put in _~/Library/Application Support/Adium 2.0/Scripts_ (or equivalent).
 
 ## Usage
 
