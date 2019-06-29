@@ -20,9 +20,7 @@ You can also add a custom status using `%song`.
 
 ## Author
 
-### **ʙʀᴀᴄᴋᴇɴ sᴘᴇɴᴄᴇʀ**<br />
-[![](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_square_black-48.png)](http://github.com/brackendev/)
-&nbsp;[![](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_square_black-48.png)](https://www.linkedin.com/in/brackenspencer/)
+[brackendev](https://www.github.com/brackendev)
 
 ## License
 
